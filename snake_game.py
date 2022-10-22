@@ -12,14 +12,14 @@ import random
 
 
 
-if __name__ == '__main__':
+# if __name__ == '__main__':
     
-    game = SnakeGame()
+#     # game = SnakeGame()
 
-    #Game Loop 
-    while True: 
-        game.play_step()
+#     #Game Loop 
+#     while True: 
+#         game.play_step()
 
-        #Break if game over 
+#         #Break if game over 
 
-    pygame.quit()
+#     pygame.quit()
